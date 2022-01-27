@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PadBinaryFile")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Pad a binary file with FF to a set length")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("AD Gaming Pty Limited")]
 [assembly: AssemblyProduct("PadBinaryFile")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
+[assembly: AssemblyCopyright("Copyright ©  2022 AD Gaming Pty Limited")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
